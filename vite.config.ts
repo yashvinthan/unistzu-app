@@ -6,7 +6,7 @@ export default defineConfig({
     plugins: [react()],
     server: {
         allowedHosts: [
-            'lending-phd-vessels-rebate.trycloudflare.com',
+            'kept-tours-beats-weblogs.trycloudflare.com',
             'test.webistzu.online'
         ]
     }
