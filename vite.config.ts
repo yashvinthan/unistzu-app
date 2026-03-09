@@ -6,7 +6,8 @@ export default defineConfig({
     plugins: [react()],
     server: {
         allowedHosts: [
-            'lending-phd-vessels-rebate.trycloudflare.com'
+            'lending-phd-vessels-rebate.trycloudflare.com',
+            'test.webistzu.online'
         ]
     }
 })
